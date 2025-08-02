@@ -29,5 +29,5 @@ You can access the deployed Recipe Preparation Agent API via the following **pub
 
 > ⚠️ **Note:** You must authenticate using your own IBM Cloud **API key** to use these endpoints.
 
-> A direct Watsonx web chat link for interactive testing:
+> A direct Watsonx web chat link for interactive testing (Live Chat):
 https://dataplatform.cloud.ibm.com/ml-runtime/deployments/c2a20ec5-1ff5-4871-9cc1-22ef85174bdb/chat?space_id=14649848-1689-4397-a0d2-4b9c15baa182&context=wx&flush=true
