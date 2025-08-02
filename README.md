@@ -14,4 +14,17 @@ Recipe Preparation Agent is an AI-powered solution that helps users prepare meal
 - Homemakers  
 - Health-conscious individuals  
 - People with dietary restrictions or allergies  
-- Beginner cooks and busy families 
+- Beginner cooks and busy families
+
+  
+## 🔗 Public API Reference
+
+You can access the deployed Recipe Preparation Agent API via the following **public endpoints**:
+
+- **Sync Endpoint:**  
+  [Public API Reference (Sync)](https://us-south.ml.cloud.ibm.com/ml/v4/deployments/c2a20ec5-1ff5-4871-9cc1-22ef85174bdb/ai_service?version=2021-05-01)
+
+- **Streaming Endpoint:**  
+  [Public API Reference (Streaming)](https://us-south.ml.cloud.ibm.com/ml/v4/deployments/c2a20ec5-1ff5-4871-9cc1-22ef85174bdb/ai_service_stream?version=2021-05-01)
+
+> ⚠️ **Note:** You must authenticate using your own IBM Cloud **API key** to use these endpoints.
